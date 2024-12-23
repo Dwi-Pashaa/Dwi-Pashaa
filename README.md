@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwi Pasha Anggara Putra</h1>
-<h3 align="center">
+<h3 align="">
 Hi, I’m Dwi Pasha Anggara Putra, a passionate Junior Backend Web Developer with a strong drive to build reliable, scalable, and efficient web solutions. My journey in software development is fueled by curiosity and a commitment to mastering backend technologies that deliver impactful user experiences.
 
 With a deep interest in coding and problem-solving, I have dedicated myself to continuous learning, honing my skills to become a specialist in backend development. Whether it’s optimizing databases, crafting APIs, or ensuring seamless server-side operations, I take pride in building solutions that meet both technical and business needs.
