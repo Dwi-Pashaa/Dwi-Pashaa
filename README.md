@@ -8,15 +8,15 @@ Collaboration is at the heart of my work ethic—I’m always eager to learn fro
 </h3>
 
 <h4 align="left">Connect with me:</h3>
-<p align="left">
+<p>
   <a href="www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268" />
   </a>
   <a href="https://www.instagram.com/dwipashaa_/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/dwipashaa_/" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/dwipashaa_/" />
   </a>
   <a href="https://www.facebook.com/share/DXX6pGs3zURMh61S/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
 </p>
 
