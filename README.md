@@ -1,14 +1,41 @@
-<h1 align="left">Hi 👋, I'm Dwi Pasha Anggara Putra</h1>
-<h5 align="">
-Hi, I’m Dwi Pasha Anggara Putra, a passionate Junior Backend Web Developer with a strong drive to build reliable, scalable, and efficient web solutions. My journey in software development is fueled by curiosity and a commitment to mastering backend technologies that deliver impactful user experiences.
+<h1 align="center">Hai 👋, Saya Dwi Pasha Anggara Putra</h1>
+<h3 align="center">Backend Web Developer | Full-Stack Enthusiast | AI & Data Explorer</h3>
 
-With a deep interest in coding and problem-solving, I have dedicated myself to continuous learning, honing my skills to become a specialist in backend development. Whether it’s optimizing databases, crafting APIs, or ensuring seamless server-side operations, I take pride in building solutions that meet both technical and business needs.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Junior+Backend+Web+Developer;Laravel+%7C+Node.js+%7C+Express+Enthusiast;Belajar+Agentic+AI+%26+Machine+Learning;Selalu+Penasaran%2C+Selalu+Belajar" alt="Typing SVG" />
+</p>
 
-Collaboration is at the heart of my work ethic—I’m always eager to learn from experienced professionals, exchange ideas, and implement feedback to grow as a developer. My goal is not just to code but to create meaningful systems that solve real-world problems and contribute to innovation.
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dwipasha&label=Profile%20views&color=2563EB&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268/">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat&logo=briefcase&logoColor=white" alt="open to work" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
+---
+
+### 🧑‍💻 Tentang Saya
+
+Saya seorang **Junior Backend Web Developer** dengan semangat tinggi untuk membangun solusi web yang **andal, scalable, dan efisien**. Perjalanan saya di dunia software development didorong oleh rasa ingin tahu dan komitmen untuk terus menguasai teknologi backend yang memberikan dampak nyata bagi pengguna.
+
+- 🔧 Fokus pada optimasi database, pembuatan API, dan operasional server-side yang mulus
+- 🧠 Saat ini sedang menyelesaikan **skripsi** tentang sistem **Agentic AI + LSTM** untuk prediksi permintaan bisnis & forecasting revenue pada perusahaan ISP
+- 🤝 Percaya bahwa kolaborasi adalah kunci — selalu terbuka belajar dari profesional lain, bertukar ide, dan menerima feedback untuk bertumbuh
+- 🎯 Tujuan saya bukan sekadar menulis kode, tapi membangun sistem yang menyelesaikan masalah nyata dan berkontribusi pada inovasi
+
+---
+
+### 🚀 Sedang Saya Kerjakan
+
+- 📚 Menyelesaikan skripsi sistem **AIDA/AYUNDA** (Agentic AI multi-agent: Marketing, Finance, Network Engineer & Technician)
+- 💼 Aktif melamar posisi **Backend/Full-Stack Developer**
+- 🌱 Memperdalam Node.js, Express, dan arsitektur API modern
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Chart Js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
@@ -26,18 +53,37 @@ Collaboration is at the heart of my work ethic—I’m always eager to learn fro
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h4 align="left">Connect with me:</h3>
-<p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwipasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwipasha&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwipasha&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### 🤝 Terhubung dengan Saya
+
+<p align="left">
   <a href="https://www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/dwipashaa_/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/dwipashaa_/" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/share/DXX6pGs3zURMh61S/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/dwipasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/dwipasha" /></a></p><br><br>
+### ☕ Dukung Saya
+
+<a href="https://buymeacoffee.com/dwipasha">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
