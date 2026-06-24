@@ -1,8 +1,8 @@
 <h1 align="center">Hai 👋, Saya Dwi Pasha Anggara Putra</h1>
-<h3 align="center">Backend Web Developer | Full-Stack Enthusiast | AI & Data Explorer</h3>
+<h3 align="center">Full-Stack Web Developer | Backend Enthusiast | AI & Data Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Junior+Backend+Web+Developer;Laravel+%7C+Node.js+%7C+Express+Enthusiast;Belajar+Agentic+AI+%26+Machine+Learning;Selalu+Penasaran%2C+Selalu+Belajar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Junior+Full-Stack+Web+Developer;Laravel+%7C+Node.js+%7C+Express+%7C+React;Python+%26+Machine+Learning+Enthusiast;Selalu+Penasaran%2C+Selalu+Belajar" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,20 +16,12 @@
 
 ### 🧑‍💻 Tentang Saya
 
-Saya seorang **Junior Backend Web Developer** dengan semangat tinggi untuk membangun solusi web yang **andal, scalable, dan efisien**. Perjalanan saya di dunia software development didorong oleh rasa ingin tahu dan komitmen untuk terus menguasai teknologi backend yang memberikan dampak nyata bagi pengguna.
+Saya seorang **Full-Stack Web Developer** dengan semangat tinggi untuk membangun solusi web yang **andal, scalable, dan efisien**, mulai dari sisi backend hingga antarmuka yang interaktif di sisi frontend. Perjalanan saya di dunia software development didorong oleh rasa ingin tahu dan komitmen untuk terus menguasai teknologi modern yang memberikan dampak nyata bagi pengguna.
 
-- 🔧 Fokus pada optimasi database, pembuatan API, dan operasional server-side yang mulus
-- 🧠 Saat ini sedang menyelesaikan **skripsi** tentang sistem **Agentic AI + LSTM** untuk prediksi permintaan bisnis & forecasting revenue pada perusahaan ISP
+- 🔧 Terbiasa membangun API, mengoptimasi database, dan merancang antarmuka pengguna yang responsif
+- 🧩 Nyaman bekerja di kedua sisi stack — dari Laravel/Node.js di backend hingga React di frontend
 - 🤝 Percaya bahwa kolaborasi adalah kunci — selalu terbuka belajar dari profesional lain, bertukar ide, dan menerima feedback untuk bertumbuh
 - 🎯 Tujuan saya bukan sekadar menulis kode, tapi membangun sistem yang menyelesaikan masalah nyata dan berkontribusi pada inovasi
-
----
-
-### 🚀 Sedang Saya Kerjakan
-
-- 📚 Menyelesaikan skripsi sistem **AIDA/AYUNDA** (Agentic AI multi-agent: Marketing, Finance, Network Engineer & Technician)
-- 💼 Aktif melamar posisi **Backend/Full-Stack Developer**
-- 🌱 Memperdalam Node.js, Express, dan arsitektur API modern
 
 ---
 
@@ -38,6 +30,8 @@ Saya seorang **Junior Backend Web Developer** dengan semangat tinggi untuk memba
 <p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Chart Js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
   <img alt="BS" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
