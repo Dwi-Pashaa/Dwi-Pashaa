@@ -1,8 +1,8 @@
 <h1 align="center">Hai 👋, Saya Dwi Pasha Anggara Putra</h1>
-<h3 align="center">Full-Stack Web Developer | Backend Enthusiast | AI & Data Explorer</h3>
+<h3 align="center">Fullstack Developer | AI Engineer | IT Support</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Junior+Full-Stack+Web+Developer;Laravel+%7C+Node.js+%7C+Express+%7C+React;Python+%26+Machine+Learning+Enthusiast;Selalu+Penasaran%2C+Selalu+Belajar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Junior+Full-Stack+Web+Developer;Laravel+%7C+Node.js+%7C+Express+%7C+React;Agentic+AI+%26+Machine+Learning+Enthusiast;Selalu+Penasaran%2C+Selalu+Belajar" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,12 +16,13 @@
 
 ### 🧑‍💻 Tentang Saya
 
-Saya seorang **Full-Stack Web Developer** dengan semangat tinggi untuk membangun solusi web yang **andal, scalable, dan efisien**, mulai dari sisi backend hingga antarmuka yang interaktif di sisi frontend. Perjalanan saya di dunia software development didorong oleh rasa ingin tahu dan komitmen untuk terus menguasai teknologi modern yang memberikan dampak nyata bagi pengguna.
+Saya seorang **Fullstack Developer dan AI Engineer** dengan latar belakang **IT Support**, berfokus menghubungkan sistem cerdas, arsitektur web yang scalable, dan operasional IT yang andal.
 
-- 🔧 Terbiasa membangun API, mengoptimasi database, dan merancang antarmuka pengguna yang responsif
-- 🧩 Nyaman bekerja di kedua sisi stack — dari Laravel/Node.js di backend hingga React di frontend
-- 🤝 Percaya bahwa kolaborasi adalah kunci — selalu terbuka belajar dari profesional lain, bertukar ide, dan menerima feedback untuk bertumbuh
-- 🎯 Tujuan saya bukan sekadar menulis kode, tapi membangun sistem yang menyelesaikan masalah nyata dan berkontribusi pada inovasi
+- 🔧 Terbiasa membangun API, mengoptimasi database, dan merancang antarmuka pengguna yang responsif menggunakan Laravel, Node.js, dan React
+- 🤖 Mengembangkan sistem **Agentic AI** dan model machine learning (termasuk **LSTM**) menggunakan Python untuk kebutuhan analitik dan prediksi
+- 🖥️ Berpengalaman langsung di bidang jaringan, pemeliharaan hardware, dan manajemen aset IT
+- 🤝 Percaya kolaborasi adalah kunci — terbuka belajar dari profesional lain, bertukar ide, dan menerima feedback untuk terus bertumbuh
+- 🎯 Fokus saya bukan sekadar menulis kode, tapi membangun sistem yang menyelesaikan masalah nyata di persimpangan web, AI, dan infrastruktur
 
 ---
 
@@ -66,13 +67,13 @@ Saya seorang **Full-Stack Web Developer** dengan semangat tinggi untuk membangun
 ### 🤝 Terhubung dengan Saya
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268/" target="blank">
+  <a href="https://www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/dwipashaa_/" target="blank">
+  <a href="https://www.instagram.com/dwipashaa_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/share/DXX6pGs3zURMh61S/" target="blank">
+  <a href="https://www.facebook.com/share/DXX6pGs3zURMh61S/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
