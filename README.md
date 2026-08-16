@@ -111,9 +111,7 @@ Saya seorang **Fullstack Developer dan AI Engineer** dengan latar belakang **IT 
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Dwi-Pashaa&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dwi-Pashaa&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dwi-Pashaa&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<table align="center"> <tr> <td valign="top"> <img src="https://github-readme-stats.shion.dev/api?username=Dwi-Pashaa&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> </td> <td valign="top"> <img src="https://streak-stats.demolab.com/?user=Dwi-Pashaa&theme=dracula&hide_border=true" alt="GitHub streak" /> </td> </tr> </table> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dwi-Pashaa&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" /> </p>
 ---
 
 ### 🤝 Terhubung dengan Saya
