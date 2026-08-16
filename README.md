@@ -1,12 +1,11 @@
 <div align="center">
 
   <!-- Header Banner / Typing SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,25&height=200&section=header&text=Dwi%20Pasha%20Anggara%20Putra&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20IT%20Support&descSize=18&descAlignY=58" width="100%" />
-
+    <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,6&height=200&section=header&text=Dwi%20Pasha%20Anggara%20Putra&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20IT%20Support&descSize=18&descAlignY=58" width="100%" />
+  <!-- Animated Typing Subtitle -->
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=🚀+Building+Scalable+Web+Architectures;🤖+Developing+Agentic+AI+%26+Deep+Learning+Models;🖥️+IT+Infrastructure+%26+Systems+Specialist;💡+Bridging+Software%2C+Intelligence%2C+and+Infra">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=🚀+Building+Scalable+Web+Architectures;🤖+Developing+Agentic+AI+%26+Deep+Learning+Models;🖥️+IT+Infrastructure+%26+Systems+Specialist;💡+Bridging+Software%2C+Intelligence%2C+and+Infra" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Web+Developer;Laravel+%7C+Node.js+%7C+Express+%7C+React;Agentic+AI+%26+Deep+Learning+Enthusiast;Bridging+Web%2C+AI%2C+and+IT+Infrastructure" alt="Typing SVG" />
   </p>
 
   <!-- Quick Status Badges -->
