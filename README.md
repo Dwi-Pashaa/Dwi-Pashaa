@@ -6,18 +6,15 @@
   </p>
 
   <!-- Quick Status Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268/">
-      <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+   <p align="center">
+    <a href="https://www.linkedin.com/in/dwi-pasha-anggara-putra-3a2790268/" target="_blank">
+      <img src="https://img.shields.io/badge/Status-Open%20to%20Work-50FA7B?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work" />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=dwipasha&label=Profile%20Views&color=2563EB&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=dwipasha&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <a href="mailto:dwipasha@example.com">
-      <img src="https://img.shields.io/badge/Contact-Get%20In%20Touch-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact" />
+    <img src="https://komarev.com/ghpvc/?username=dwipasha&label=Profile%20Views&color=BD93F9&style=for-the-badge" alt="Profile Views" />
+    <a href="mailto:dwipasha776@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-8BE9FD?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
     </a>
   </p>
-
 </div>
 
 ---
