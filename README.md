@@ -1,7 +1,4 @@
 <div align="center">
-
-  <!-- Header Banner / Typing SVG -->
-    <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,6&height=200&section=header&text=Dwi%20Pasha%20Anggara%20Putra&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20IT%20Support&descSize=18&descAlignY=58" width="100%" />
   <!-- Animated Typing Subtitle -->
   <p align="center">
